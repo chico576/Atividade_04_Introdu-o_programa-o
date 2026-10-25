@@ -5,6 +5,6 @@ while abs(b - p) > 0.0001:
     b = p
     p = (b + n/b)/2
     
-print(f"A raiz quadrada de {n} é {b:5f}, {p:.5f}")
+print(f"A raiz quadrada de {n} é {b:.5f}, {p:.5f}")
 
     
